@@ -5,7 +5,6 @@ using namespace std;
 int main() { 
     string teclado = "`1234567890-=QWERTYUIOP[]\\ASDFGHJKL;'ZXCVBNM,./"; 
     string codigo;
-    
 
     while(getline(cin, codigo)){
         string descriptografado = "";
